@@ -22,3 +22,25 @@ C++ hight speed + Fast powerful V8 engine => Node.js
 
 
 Currently I decide to coding simple high performance AI TensorFlow digits recognition with Node.js here.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Footnotes:
+
+1- https://github.com/marzban2030/MIPS
+
+Measure multi threaded process MIPS with C++

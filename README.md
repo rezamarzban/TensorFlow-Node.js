@@ -8,6 +8,6 @@ The result was "C++ with V8 engine and TensorFlow.js module" has most speed and 
 
 Node.js is C++ with V8 engine: The V8 interface between C++ and JavaScript is used by the native code bindings that come with Node.
 
-So, Coding in Node.js is better than coding in C++ with V8 engine.
+So, Coding in Node.js is better than coding in C++ with V8 engine however Node.js has written in C++ and contains V8 engine library headers which make these same as together in processing and performance.
 
-Currently I am deciding to coding simple high performance TensorFlow digits recognition with Node.js here.
+Currently I decide to coding simple high performance TensorFlow digits recognition with Node.js here.

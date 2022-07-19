@@ -21,7 +21,7 @@ https://rextester.com/HQA96838
 C++ speed + Fast powerful V8 engine => Node.js
 
 
-Node.js + TensorFlow.js => AI, C++
+Node.js + TensorFlow.js => AI C++ project
 
 
 Currently I decide to coding simple high performance AI TensorFlow digits recognition with Node.js here.

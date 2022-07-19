@@ -18,7 +18,10 @@ Measured single threaded process MIPS in Node.js is equal to each thread MIPS in
 https://rextester.com/HQA96838
 
 
-C++ hight speed + Fast powerful V8 engine => Node.js
+C++ speed + Fast powerful V8 engine => Node.js
+
+
+Node.js + TensorFlow.js => AI, C++
 
 
 Currently I decide to coding simple high performance AI TensorFlow digits recognition with Node.js here.

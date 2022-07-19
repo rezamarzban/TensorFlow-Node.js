@@ -14,4 +14,7 @@ I measured single threaded Node.js process MIPS by MIPS.js code, It is equal to 
 test it online:
 https://rextester.com/VJTL81707
 
+Measured single threaded process MIPS in Node.js is equal to each thread MIPS in this code that measure multi threaded process MIPS in C++:
+https://rextester.com/HQA96838¹
+
 Currently I decide to coding simple high performance AI TensorFlow digits recognition with Node.js here.

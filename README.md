@@ -2,9 +2,9 @@
 Simple high performance AI TensorFlow digits recognition code with Node.js (C++ &amp; V8 engine)
 
 After coding TensorFlow in Python3 with TensorFlow module,
-And after coding in Python2 with V8 engine and TensorFlow.js module,
-And after coding in C++ with V8 engine and TensorFlow.js module,
-The result was "C++ with V8 engine and TensorFlow.js module" has most speed and less hardware resources usage.
+And after coding it in Python2 with V8 engine and TensorFlow.js javascript module,
+And after coding in C++ with V8 engine and TensorFlow.js javascript module,
+The result was "C++ with V8 engine and TensorFlow.js javascript module" has most speed and less hardware resources usage.
 
 Node.js is C++ with V8 engine: The V8 interface between C++ and JavaScript is used by the native code bindings that come with Node.
 

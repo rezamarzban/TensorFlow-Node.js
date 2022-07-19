@@ -10,4 +10,8 @@ Node.js is C++ with V8 engine: The V8 interface between C++ and JavaScript is us
 
 So, Coding in Node.js is better than coding in C++ with V8 engine however Node.js has written in C++ and contains V8 engine library headers which make these same as together in processing and performance.
 
+I measured single threaded Node.js process MIPS by MIPS.js code, It is equal to total sum of one or two CPU cores frequency in MHZ.
+test it online:
+https://rextester.com/VJTL81707
+
 Currently I decide to coding simple high performance AI TensorFlow digits recognition with Node.js here.

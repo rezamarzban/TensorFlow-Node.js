@@ -26,21 +26,16 @@ Node.js + TensorFlow.js => AI C++ project
 
 Currently I decide to coding simple high performance AI TensorFlow digits recognition with Node.js here.
 
-.
 
-.
+Install required module by running below command:
 
-.
+"npm install @tensorflow/tfjs-node"
 
-.
 
-.
+Run script by running below command:
 
-.
+"node main.js"
 
-.
-
-.
 
 Footnotes:
 

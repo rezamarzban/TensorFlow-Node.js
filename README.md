@@ -37,6 +37,7 @@ Run script by running below command:
 
 "node main.js"
 
+On error study pdf file in the repository and do very confusing guides in it: Peter Babič - Install tfjs-node from source.pdf
 
 Footnotes:
 

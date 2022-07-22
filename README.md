@@ -31,7 +31,7 @@ Install required module by running below command:
 
 "npm install @tensorflow/tfjs-node"
 
-Note: tensorflow node is available for Intel, AMD and so on. Not available for arm, arm64 and so on.
+Note: tensorflow node is available for Intel, AMD processors and so on. Not available for arm, arm64 processors and so on.
 
 On error study pdf file in the repository and do this: How to Install Node.js on Ubuntu and Update npm to the Latest Version.pdf
 

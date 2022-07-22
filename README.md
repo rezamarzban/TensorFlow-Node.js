@@ -31,6 +31,7 @@ Install required module by running below command:
 
 "npm install @tensorflow/tfjs-node"
 
+On error study pdf file in the repository and do this: How to Install Node.js on Ubuntu and Update npm to the Latest Version.pdf
 
 Run script by running below command:
 

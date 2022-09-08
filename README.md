@@ -33,7 +33,8 @@ Install required module by running below command:
 
 Note: tensorflow node is available for Intel, AMD processors and so on. Not available for arm, arm64 processors and so on.
 
-On error study pdf file in the repository and do this: How to Install Node.js on Ubuntu and Update npm to the Latest Version.pdf
+On error study and do this: How to Install Node.js on Ubuntu and Update npm to the Latest Version:
+https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
 
 Run script by running below command:
 
